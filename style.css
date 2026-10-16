@@ -17,3 +17,10 @@
     border-bottom: 2px solid black;
     height: 80px;
 }
+.exo3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid black;
+    height: 80px;
+}
