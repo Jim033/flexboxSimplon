@@ -1,0 +1,12 @@
+.box {
+    height: 40px;
+    width: 40px;
+    border: solid black 2px;
+    border-radius: 4px;
+    background-color: rosybrown;
+    margin: 6px;
+}
+.exo1 {
+    display: flex;
+    border-bottom: 2px solid black;
+}
